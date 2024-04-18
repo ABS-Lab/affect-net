@@ -1,0 +1,6 @@
+Community pairs with high citation-based distance but low semantic distance,,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
+"C2: Reg, Depr, Child","C42: Fear, Beh, Depress, Inf",2.02,1.11,-0.91
+"C2: Reg, Depr, Child","C60: Temper, Adolesc, Par, Soc",1.88,1.16,-0.72
+"C26: Pet, Dog, Hum Rel","C2: Reg, Depr, Child",1.38,0.71,-0.68
+"C33: Humor","C2: Reg, Depr, Child",1.19,0.59,-0.6
+"C58: Attitude, Behav","C2: Reg, Depr, Child",0.98,0.54,-0.43

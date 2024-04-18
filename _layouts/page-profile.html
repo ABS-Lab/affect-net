@@ -1,0 +1,53 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.name | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+
+    <h2 class="post-title">{{ page.description | escape }}</h2>
+
+    <!-- word cloud -->
+    <div style="float:right;padding-left: 5%;">
+      <img src={{ page.wordcloud }} alt="Word cloud" width="400" height="300">
+    </div>
+
+    <!-- most cited articles -->
+    <h2>Most cited articles</h2>
+    <i>{{ page.article1 | markdownify }}</i>
+    <i>{{ page.article2 | markdownify }}</i>
+    <i>{{ page.article3 | markdownify }}</i>
+    <i>{{ page.article4 | markdownify }}</i>
+    <i>{{ page.article5 | markdownify }}</i>
+
+    <!-- figure -->
+    <h2>Figure</h2>
+    <img src={{ page.fig1 }} alt="Figure 1" width="300" height="200">
+
+
+    <!-- table of distances - requires having '_data/c##-distances.csv'-->
+    <h2>Table of distances</h2>
+    <table>
+      {% for row in site.data[page.distance-csv] %} 
+        {% if forloop.first %}
+        <tr>
+          {% for pair in row %}
+            <th>{{ pair[0] | markdownify }}</th>
+          {% endfor %}
+        </tr>
+        {% endif %}
+    
+        {% tablerow pair in row %}
+          {{ pair[1]  | markdownify }}
+        {% endtablerow %}
+      {% endfor %}
+    </table>
+
+  </div>
+
+</article>
+

@@ -1,0 +1,13 @@
+---
+layout: page
+title: All profiles
+---
+
+<ul>
+  {% for profile in site.profiles %}
+    <li>
+      <a href="{{ profile.url }}">{{ profile.name }}</a>: 
+      {{ profile.description }}
+    </li>
+  {% endfor %}
+</ul>
