@@ -6,8 +6,7 @@ title: All profiles
 <ul>
   {% for profile in site.profiles %}
     <li>
-      <a href="{{ profile.url | relative_url }}">{{ profile.name }}</a>: 
-      {{ profile.description }}
+      <a href="{{ profile.url | relative_url }}">{{ profile.name }}</a> 
     </li>
   {% endfor %}
 </ul>

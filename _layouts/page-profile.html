@@ -9,30 +9,33 @@ layout: base
 
   <div class="post-content">
 
-    <h2 class="post-title">{{ page.description | escape }}</h2>
+    <h3 class="post-title">{{ page.description | escape }}</h3>
 
     <!-- word cloud -->
-    <div style="float:right;padding-left: 5%;">
-      <img src={{ page.wordcloud | relative_url }} alt="Word cloud" width="400" height="300">
+    <div style="padding: 5%;">
+      <img src={{ page.wordcloud | relative_url }} alt="Word cloud" width="400" height="200">
+    </div>
+
+    <!-- figure -->
+    <h3>Interconnectedness</h3>
+    <div style="padding: 5%;">
+    <img src={{ page.interconnectedness | relative_url }} alt="Interconnectedness" width="600">
     </div>
 
     <!-- most cited articles -->
-    <h2>Most cited articles</h2>
+    <h3>Most cited articles</h3>
     <i>{{ page.article1 | markdownify }}</i>
     <i>{{ page.article2 | markdownify }}</i>
     <i>{{ page.article3 | markdownify }}</i>
     <i>{{ page.article4 | markdownify }}</i>
     <i>{{ page.article5 | markdownify }}</i>
 
-    <!-- figure -->
-    <h2>Figure</h2>
-    <img src={{ page.fig1 | relative_url }} alt="Figure 1" width="300" height="200">
+    <!-- table - requires having '_data/*.csv'-->
+    <h3>Missed connections</h3>
+    <p>{{ page.missedconnections }}</p>
 
-
-    <!-- table of distances - requires having '_data/c##-distances.csv'-->
-    <h2>Table of distances</h2>
     <table>
-      {% for row in site.data[page.distance-csv] %} 
+      {% for row in site.data[page.missedconnections] %} 
         {% if forloop.first %}
         <tr>
           {% for pair in row %}
