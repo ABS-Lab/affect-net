@@ -13,7 +13,7 @@ layout: base
 
     <!-- word cloud -->
     <div style="float:right;padding-left: 5%;">
-      <img src={{ page.wordcloud }} alt="Word cloud" width="400" height="300">
+      <img src={{ page.wordcloud | relative_url }} alt="Word cloud" width="400" height="300">
     </div>
 
     <!-- most cited articles -->
@@ -26,7 +26,7 @@ layout: base
 
     <!-- figure -->
     <h2>Figure</h2>
-    <img src={{ page.fig1 }} alt="Figure 1" width="300" height="200">
+    <img src={{ page.fig1 | relative_url }} alt="Figure 1" width="300" height="200">
 
 
     <!-- table of distances - requires having '_data/c##-distances.csv'-->
