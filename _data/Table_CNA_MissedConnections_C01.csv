@@ -1,0 +1,6 @@
+Community pairs with high citation-based distance but low semantic distance,,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
+[c01: Core Affect](/emo-web/profiles/c01),[c42: Fear](/emo-web/profiles/c42),1.47,0.95,-0.53
+[c01: Core Affect](/emo-web/profiles/c01),[c01: Core Affect](/emo-web/profiles/c01),1.79,0.66,-1.13
+[c02: Emotion Regulation](/emo-web/profiles/c02),[c01: Core Affect](/emo-web/profiles/c01),1.75,1.21,-0.54
+[c03: Empathy](/emo-web/profiles/c03),[c01: Core Affect](/emo-web/profiles/c01),1.67,0.88,-0.79
+[c04: Emotional Intelligence](/emo-web/profiles/c04),[c01: Core Affect](/emo-web/profiles/c01),1.59,0.96,-0.63

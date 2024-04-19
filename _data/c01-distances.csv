@@ -1,6 +1,0 @@
-Community pairs with high citation-based distance but low semantic distance,,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-"[C1: Emo, Fac Exp, Aff](/profiles/c01)","[C42: Fear, Beh, Depress, Inf](/profiles/c42)",1.47,0.95,-0.53
-"C65: Act, Resp, Act Effect","C1: Emo, Fac Exp, Aff",1.79,0.66,-1.13
-"C66: Emo, Learn, Music","C1: Emo, Fac Exp, Aff",1.75,1.21,-0.54
-"C29: Risk, Dec Mak","C1: Emo, Fac Exp, Aff",1.67,0.88,-0.79
-"C44: Agent, Simul, Emo","C1: Emo, Fac Exp, Aff",1.59,0.96,-0.63
