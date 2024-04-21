@@ -1,0 +1,11 @@
+ssid,doi,title,authors,year,venue
+"3f453f8285fb4b904a16250af2c4d0e9f0d41e68","10.1016/B978-0-12-558704-4.50011-6","THE DICTIONARY OF AFFECT IN LANGUAGE","C. Whissell","1989","",
+"608a71853944614e894e82086afaf8c2ac9427f7","10.1162/COLI_r_00259","Book Review: Sentiment Analysis: Mining Opinions, Sentiments, and Emotions by Bing Liu","Jun Zhao, Kang Liu, Liheng Xu","2015","CL",
+"be9177d5eacf02dae53d048bebb4322cd343a4a1","10.1016/j.eswa.2013.08.073","Text-based emotion classification using emotion cause extraction","Weiyuan Li, Hua Xu","2014","Expert Syst. Appl.",
+"fb41dd751e26acd2c6eeaab45e49bbfe408650de","None","Emotion Cause Detection with Linguistic Constructions","Ying Chen, S. Lee, Shoushan Li, Chu-Ren Huang","2010","COLING",
+"ffe0fa5f2ce6709ff6b1750f9bbc9e31929b25b2","None","Sentiment Analysis of Twitter Data","Apoorv Agarwal, Boyi Xie, Ilia Vovsha, Owen Rambow, R. Passonneau","2011","",
+"58f7accbe36aadd0ef83fd2746c879079eb816bc","10.1016/j.knosys.2015.06.015","A survey on opinion mining and sentiment analysis: Tasks, approaches and applications","Kumar Ravi, V. Ravi","2015","Knowl. Based Syst.",
+"a17d76ae8479b5927df587696c58d690a9e2915d","10.1145/2647868.2656408","Predicting Viewer Perceived Emotions in Animated GIFs","Brendan Jou, Subhabrata Bhattacharya, Shih-Fu Chang","2014","ACM Multimedia",
+"09015ee446422c4d018708665d8405fad4504974","10.1007/978-3-319-18117-2_12","Detecting Emotion Stimuli in Emotion-Bearing Sentences","D. Ghazi, D. Inkpen, Stan Szpakowicz","2015","CICLing",
+"120bd71c72f9477dec6b5291c32f73ae4afbf163","10.18653/v1/D16-1170","Event-Driven Emotion Cause Extraction with Corpus Construction","Lin Gui, Dongyin Wu, Ruifeng Xu, Q. Lu, Yu Zhou","2016","EMNLP",
+"95dcc810e3554bb75be87f067c17e728f46cfac0","10.18653/v1/D17-1167","A Question Answering Approach for Emotion Cause Extraction","Lin Gui, J. Hu, Yulan He, Ruifeng Xu, Q. Lu, Jiachen Du","2017","EMNLP",

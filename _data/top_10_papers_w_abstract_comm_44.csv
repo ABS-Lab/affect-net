@@ -1,0 +1,11 @@
+ssid,doi,title,authors,year,venue
+"a05db53e87804280110fdab48321ec386bc20230","None","Emotion Model for Life-Like Agent and Its Evaluation","H. Ushida, Yuji Hirayama, H. Nakajima","1998","AAAI/IAAI",
+"a6e8e3f95fdf6fcb2ec50dd3e64361fe740f95ed","10.1007/3-540-44566-8_32","Emotions and Personality in Agent Design and Modeling","P. Gmytrasiewicz, C. Lisetti","2001","User Modeling",
+"e1c260fc234e95eafcb81e4f4226a4f53feabfc9","None","Towards Fuzzy Agents with Dynamic Personality for Human Behavior Simulation","N. Ghasem-Aghaee, T. Ören, Yuan","2003","",
+"a1bd566e6c2342914741d22b23d87fab6d312984","10.1016/j.infsof.2006.08.002","Emotional agents: A modeling and an application","Khulood Abu Maria, R. A. Zitar","2007","Inf. Softw. Technol.",
+"e33c573630f806d0bae9bd8225e5667a408a2e39","None","Personality Representation Processable in Fuzzy Logic for Human Behavior Simulation","Ören, N. Ghasem-Aghaee","2003","",
+"4cc9c81c514cd67d98905a2ccf2b4653b1cdaee0","10.1016/j.neunet.2014.06.012","Practical emotional neural networks","E. Lotfi, M. Akbarzadeh-Totonchi","2014","Neural Networks",
+"882e1557221bbe151e0fd7e395d12ffe29e90ded","10.1109/TNN.2008.2002913","A Modified Backpropagation Learning Algorithm With Added Emotional Coefficients","A. Khashman","2008","IEEE Transactions on Neural Networks",
+"050bfb1e475de1de425949800d25d3e0cbbcca62","10.1145/1402383.1402408","Simulation of individual spontaneous reactive behavior","Alejandra García-Rojas, M. Gutiérrez, D. Thalmann","2008","AAMAS",
+"ad0de62124c3a892546b5f04acbbe2a3e29455cc","10.1007/11550617_14","When Emotion Does Not Mean Loss of Control","R. Imbert, Angélica de Antonio Jiménez","2005","IVA",
+"2f40843c695a75917c766e3a0b9efd183f4cf890","10.1017/S0269888916000096","BDI agents in social simulations: a survey","C. Adam, B. Gaudou","2016","The Knowledge Engineering Review",
