@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c12: Shame](/emo-web/profiles/c12),[c03: Empathy](/emo-web/profiles/c03),1.73,0.87,-0.86
-[c12: Shame](/emo-web/profiles/c12),[c43: Creativity](/emo-web/profiles/c43),1.85,0.77,-1.08
+[c12: Shame](/emo-web/profiles/c12),[c60: Temperament](/emo-web/profiles/c60),1.85,0.77,-1.08
+[c12: Shame](/emo-web/profiles/c12),[c42: Fear](/emo-web/profiles/c42),1.73,0.87,-0.86
 [c59: Nostalgia](/emo-web/profiles/c59),[c12: Shame](/emo-web/profiles/c12),2.58,1.29,-1.29
 [c33: Humor](/emo-web/profiles/c33),[c12: Shame](/emo-web/profiles/c12),2.48,1.29,-1.19
 [c26: Pet](/emo-web/profiles/c26),[c12: Shame](/emo-web/profiles/c12),2.23,1.13,-1.1

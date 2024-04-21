@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c02: Emotion Regulation](/emo-web/profiles/c02),[c06: Reward](/emo-web/profiles/c06),2.02,1.11,-0.91
-[c02: Emotion Regulation](/emo-web/profiles/c02),[c24: Self](/emo-web/profiles/c24),1.88,1.16,-0.72
+[c02: Emotion Regulation](/emo-web/profiles/c02),[c42: Fear](/emo-web/profiles/c42),2.02,1.11,-0.91
+[c02: Emotion Regulation](/emo-web/profiles/c02),[c60: Temperament](/emo-web/profiles/c60),1.88,1.16,-0.72
 [c26: Pet](/emo-web/profiles/c26),[c02: Emotion Regulation](/emo-web/profiles/c02),1.38,0.71,-0.68
 [c33: Humor](/emo-web/profiles/c33),[c02: Emotion Regulation](/emo-web/profiles/c02),1.19,0.59,-0.6
 [c58: Attitude](/emo-web/profiles/c58),[c02: Emotion Regulation](/emo-web/profiles/c02),0.98,0.54,-0.43

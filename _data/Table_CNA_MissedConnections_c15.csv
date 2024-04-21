@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
+[c15: Sentiment analysis](/emo-web/profiles/c15),[c67: Speech](/emo-web/profiles/c67),2.54,1.4,-1.14
+[c15: Sentiment analysis](/emo-web/profiles/c15),[c54: Interaction (user)](/emo-web/profiles/c54),2.35,1.4,-0.95
+[c15: Sentiment analysis](/emo-web/profiles/c15),[c44: Agent](/emo-web/profiles/c44),2.33,1.4,-0.93
 [c15: Sentiment analysis](/emo-web/profiles/c15),[c08: Facial Expression](/emo-web/profiles/c08),1.98,0.87,-1.11
-[c15: Sentiment analysis](/emo-web/profiles/c15),[c01: Core Affect](/emo-web/profiles/c01),2.33,1.4,-0.93
-[c15: Sentiment analysis](/emo-web/profiles/c15),[c20: Pain](/emo-web/profiles/c20),2.35,1.4,-0.95
-[c15: Sentiment analysis](/emo-web/profiles/c15),[c15: Sentiment analysis](/emo-web/profiles/c15),2.54,1.4,-1.14
 [c44: Agent](/emo-web/profiles/c44),[c15: Sentiment analysis](/emo-web/profiles/c15),1.87,0.94,-0.93

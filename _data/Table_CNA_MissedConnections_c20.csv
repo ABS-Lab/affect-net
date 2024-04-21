@@ -1,5 +1,5 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c20: Pain](/emo-web/profiles/c20),[c29: Risk](/emo-web/profiles/c29),1.77,1.19,-0.57
+[c20: Pain](/emo-web/profiles/c20),[c42: Fear](/emo-web/profiles/c42),1.77,1.19,-0.57
 [c51: Crying](/emo-web/profiles/c51),[c20: Pain](/emo-web/profiles/c20),2.01,0.74,-1.27
 [c26: Pet](/emo-web/profiles/c26),[c20: Pain](/emo-web/profiles/c20),1.91,1.21,-0.71
 [c46: Time](/emo-web/profiles/c46),[c20: Pain](/emo-web/profiles/c20),1.24,0.83,-0.41

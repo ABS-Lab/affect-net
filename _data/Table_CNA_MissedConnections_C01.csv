@@ -1,5 +1,5 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c01: Core Affect](/emo-web/profiles/c01),[c63: Measure](/emo-web/profiles/c63),1.47,0.95,-0.53
+[c01: Core Affect](/emo-web/profiles/c01),[c42: Fear](/emo-web/profiles/c42),1.47,0.95,-0.53
 [c65: Action](/emo-web/profiles/c65),[c01: Core Affect](/emo-web/profiles/c01),1.79,0.66,-1.13
 [c66: Experience (music)](/emo-web/profiles/c66),[c01: Core Affect](/emo-web/profiles/c01),1.75,1.21,-0.54
 [c29: Risk](/emo-web/profiles/c29),[c01: Core Affect](/emo-web/profiles/c01),1.67,0.88,-0.79

@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c40: Language](/emo-web/profiles/c40),[c08: Facial Expression](/emo-web/profiles/c08),2.04,0.9,-1.14
-[c40: Language](/emo-web/profiles/c40),[c09: Amygdala](/emo-web/profiles/c09),1.79,0.88,-0.91
+[c40: Language](/emo-web/profiles/c40),[c37: Student learning](/emo-web/profiles/c37),2.04,0.9,-1.14
+[c40: Language](/emo-web/profiles/c40),[c67: Speech](/emo-web/profiles/c67),1.79,0.88,-0.91
 [c37: Student learning](/emo-web/profiles/c37),[c40: Language](/emo-web/profiles/c40),1.97,0.83,-1.14
 [c43: Creativity](/emo-web/profiles/c43),[c40: Language](/emo-web/profiles/c40),1.76,0.81,-0.95
 [c39: Design](/emo-web/profiles/c39),[c40: Language](/emo-web/profiles/c40),1.74,0.92,-0.82
