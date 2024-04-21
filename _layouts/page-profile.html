@@ -9,18 +9,38 @@ layout: base
 
   <div class="post-content">
 
-    <h3 class="post-title">{{ page.description | escape }}</h3>
+    <h3 class="post-title">Key words: {{ page.description | escape }}</h3>
 
     <!-- word cloud -->
-    <div style="padding: 5%;">
+    <div style="padding: 2%;">
       <img src={{ page.wordcloud | relative_url }} alt="Word cloud" width="400" height="200">
     </div>
 
+
     <!-- figure -->
     <h3>Interconnectedness</h3>
-    <div style="padding: 5%;">
+    <div style="padding: 2%;">
     <img src={{ page.interconnectedness | relative_url }} alt="Interconnectedness" width="600">
     </div>
+
+    <!-- table - requires having '_data/*.csv'-->
+    <h3>Missed connections</h3>
+    <p><b>Community pairs with high citation-based distance but low semantic distance</b></p>
+    <table>
+      {% for row in site.data[page.missedconnections] %} 
+        {% if forloop.first %}
+        <tr>
+          {% for pair in row %}
+            <th>{{ pair[0] | markdownify }}</th>
+          {% endfor %}
+        </tr>
+        {% endif %}
+    
+        {% tablerow pair in row %}
+          {{ pair[1]  | markdownify }}
+        {% endtablerow %}
+      {% endfor %}
+    </table>
 
     <!-- articles -->
     <h3>Central articles</h3>
@@ -42,28 +62,8 @@ layout: base
 
       </li>
       
-
     {% endfor %}
     </ol>
-
-    <!-- table - requires having '_data/*.csv'-->
-    <h3>Missed connections</h3>
-
-    <table>
-      {% for row in site.data[page.missedconnections] %} 
-        {% if forloop.first %}
-        <tr>
-          {% for pair in row %}
-            <th>{{ pair[0] | markdownify }}</th>
-          {% endfor %}
-        </tr>
-        {% endif %}
-    
-        {% tablerow pair in row %}
-          {{ pair[1]  | markdownify }}
-        {% endtablerow %}
-      {% endfor %}
-    </table>
 
   </div>
 
