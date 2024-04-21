@@ -22,17 +22,32 @@ layout: base
     <img src={{ page.interconnectedness | relative_url }} alt="Interconnectedness" width="600">
     </div>
 
-    <!-- most cited articles -->
-    <h3>Most cited articles</h3>
-    <i>{{ page.article1 | markdownify }}</i>
-    <i>{{ page.article2 | markdownify }}</i>
-    <i>{{ page.article3 | markdownify }}</i>
-    <i>{{ page.article4 | markdownify }}</i>
-    <i>{{ page.article5 | markdownify }}</i>
+    <!-- articles -->
+    <h3>Central articles</h3>
+  
+    <ol>
+    {% for row in site.data[page.centralpapers] %} 
+      <li>
+        <a href="http://www.semanticscholar.org/paper/{{ row.SSID }}">{{ row.title }}</a>
+        <p style="font-size:smaller">{{ row.authors }}. {{ row.year }}. <i>{{ row.venue }}</i>
+      
+        <!--
+        {% if row.abstract.size > 200 %}
+        <details>
+          <summary>Abstract</summary>
+          <p>{{ row.abstract }}</p>
+        </details>
+        {% endif %}
+        -->
+
+      </li>
+      
+
+    {% endfor %}
+    </ol>
 
     <!-- table - requires having '_data/*.csv'-->
     <h3>Missed connections</h3>
-    <p>{{ page.missedconnections }}</p>
 
     <table>
       {% for row in site.data[page.missedconnections] %} 
