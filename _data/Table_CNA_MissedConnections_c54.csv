@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c39: Design](/emo-web/profiles/c39),[c54: Interaction (user)](/emo-web/profiles/c54),2.74,1.28,-1.46
-[c44: Agent](/emo-web/profiles/c44),[c54: Interaction (user)](/emo-web/profiles/c54),2.41,1.09,-1.32
-[c15: Sentiment analysis](/emo-web/profiles/c15),[c54: Interaction (user)](/emo-web/profiles/c54),2.35,1.4,-0.95
-[c43: Creativity](/emo-web/profiles/c43),[c54: Interaction (user)](/emo-web/profiles/c54),2.21,1.24,-0.97
-[c37: Student learning](/emo-web/profiles/c37),[c54: Interaction (user)](/emo-web/profiles/c54),2.02,1.06,-0.96
+[c39: Design](/affect-net/profiles/c39),[c54: Interaction (user)](/affect-net/profiles/c54),2.74,1.28,-1.46
+[c44: Agent](/affect-net/profiles/c44),[c54: Interaction (user)](/affect-net/profiles/c54),2.41,1.09,-1.32
+[c15: Sentiment analysis](/affect-net/profiles/c15),[c54: Interaction (user)](/affect-net/profiles/c54),2.35,1.4,-0.95
+[c43: Creativity](/affect-net/profiles/c43),[c54: Interaction (user)](/affect-net/profiles/c54),2.21,1.24,-0.97
+[c37: Student learning](/affect-net/profiles/c37),[c54: Interaction (user)](/affect-net/profiles/c54),2.02,1.06,-0.96

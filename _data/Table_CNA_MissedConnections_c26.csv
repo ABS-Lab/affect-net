@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c26: Pet](/emo-web/profiles/c26),[c28: Expressive writing](/emo-web/profiles/c28),2.54,1.22,-1.33
-[c26: Pet](/emo-web/profiles/c26),[c32: Experience](/emo-web/profiles/c32),2.45,1.21,-1.24
-[c26: Pet](/emo-web/profiles/c26),[c12: Shame](/emo-web/profiles/c12),2.23,1.13,-1.1
-[c26: Pet](/emo-web/profiles/c26),[c66: Experience (music)](/emo-web/profiles/c66),2.22,1.13,-1.09
-[c66: Experience (music)](/emo-web/profiles/c66),[c26: Pet](/emo-web/profiles/c26),2.31,1.22,-1.09
+[c26: Pet](/affect-net/profiles/c26),[c28: Expressive writing](/affect-net/profiles/c28),2.54,1.22,-1.33
+[c26: Pet](/affect-net/profiles/c26),[c32: Experience](/affect-net/profiles/c32),2.45,1.21,-1.24
+[c26: Pet](/affect-net/profiles/c26),[c12: Shame](/affect-net/profiles/c12),2.23,1.13,-1.1
+[c26: Pet](/affect-net/profiles/c26),[c66: Experience (music)](/affect-net/profiles/c66),2.22,1.13,-1.09
+[c66: Experience (music)](/affect-net/profiles/c66),[c26: Pet](/affect-net/profiles/c26),2.31,1.22,-1.09

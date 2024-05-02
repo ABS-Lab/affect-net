@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c46: Time](/emo-web/profiles/c46),[c36: Odor](/emo-web/profiles/c36),2.21,0.83,-1.39
-[c46: Time](/emo-web/profiles/c46),[c18: Face](/emo-web/profiles/c18),1.97,0.83,-1.14
-[c46: Time](/emo-web/profiles/c46),[c38: Expectation](/emo-web/profiles/c38),1.77,0.83,-0.94
-[c46: Time](/emo-web/profiles/c46),[c31: Sexual arousal](/emo-web/profiles/c31),1.45,0.83,-0.62
-[c65: Action](/emo-web/profiles/c65),[c46: Time](/emo-web/profiles/c46),2.38,1.23,-1.15
+[c46: Time](/affect-net/profiles/c46),[c36: Odor](/affect-net/profiles/c36),2.21,0.83,-1.39
+[c46: Time](/affect-net/profiles/c46),[c18: Face](/affect-net/profiles/c18),1.97,0.83,-1.14
+[c46: Time](/affect-net/profiles/c46),[c38: Expectation](/affect-net/profiles/c38),1.77,0.83,-0.94
+[c46: Time](/affect-net/profiles/c46),[c31: Sexual arousal](/affect-net/profiles/c31),1.45,0.83,-0.62
+[c65: Action](/affect-net/profiles/c65),[c46: Time](/affect-net/profiles/c46),2.38,1.23,-1.15

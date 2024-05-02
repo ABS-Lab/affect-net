@@ -1,4 +1,4 @@
-title: Emo-Web
+title: AffectNet
 author: 
   name: Affective and Brain Sciences Lab
   email: abslab.nu@gmail.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Welcome to Emo-Web, the first comprehensive citation network map of the affective science literature. 
+  The first comprehensive citation network map of the affective science literature. 
 
 # Build settings
 

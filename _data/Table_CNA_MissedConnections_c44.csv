@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c44: Agent](/emo-web/profiles/c44),[c67: Speech](/emo-web/profiles/c67),2.53,1.07,-1.46
-[c44: Agent](/emo-web/profiles/c44),[c54: Interaction (user)](/emo-web/profiles/c54),2.41,1.09,-1.32
-[c44: Agent](/emo-web/profiles/c44),[c43: Creativity](/emo-web/profiles/c43),2.01,0.97,-1.05
-[c39: Design](/emo-web/profiles/c39),[c44: Agent](/emo-web/profiles/c44),2.37,1.29,-1.08
-[c43: Creativity](/emo-web/profiles/c43),[c44: Agent](/emo-web/profiles/c44),2.29,1.24,-1.05
+[c44: Agent](/affect-net/profiles/c44),[c67: Speech](/affect-net/profiles/c67),2.53,1.07,-1.46
+[c44: Agent](/affect-net/profiles/c44),[c54: Interaction (user)](/affect-net/profiles/c54),2.41,1.09,-1.32
+[c44: Agent](/affect-net/profiles/c44),[c43: Creativity](/affect-net/profiles/c43),2.01,0.97,-1.05
+[c39: Design](/affect-net/profiles/c39),[c44: Agent](/affect-net/profiles/c44),2.37,1.29,-1.08
+[c43: Creativity](/affect-net/profiles/c43),[c44: Agent](/affect-net/profiles/c44),2.29,1.24,-1.05

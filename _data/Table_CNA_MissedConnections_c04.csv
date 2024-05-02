@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c04: Emotional Intelligence](/emo-web/profiles/c04),[c60: Temperament](/emo-web/profiles/c60),2.11,1.12,-0.99
-[c61: Media](/emo-web/profiles/c61),[c04: Emotional Intelligence](/emo-web/profiles/c04),2.15,1.28,-0.87
-[c49: Play](/emo-web/profiles/c49),[c04: Emotional Intelligence](/emo-web/profiles/c04),2.1,1.17,-0.93
-[c66: Experience (music)](/emo-web/profiles/c66),[c04: Emotional Intelligence](/emo-web/profiles/c04),2.08,1.22,-0.86
-[c53: Dark tourism](/emo-web/profiles/c53),[c04: Emotional Intelligence](/emo-web/profiles/c04),1.99,1.11,-0.88
+[c04: Emotional Intelligence](/affect-net/profiles/c04),[c60: Temperament](/affect-net/profiles/c60),2.11,1.12,-0.99
+[c61: Media](/affect-net/profiles/c61),[c04: Emotional Intelligence](/affect-net/profiles/c04),2.15,1.28,-0.87
+[c49: Play](/affect-net/profiles/c49),[c04: Emotional Intelligence](/affect-net/profiles/c04),2.1,1.17,-0.93
+[c66: Experience (music)](/affect-net/profiles/c66),[c04: Emotional Intelligence](/affect-net/profiles/c04),2.08,1.22,-0.86
+[c53: Dark tourism](/affect-net/profiles/c53),[c04: Emotional Intelligence](/affect-net/profiles/c04),1.99,1.11,-0.88

@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c17: Anger](/emo-web/profiles/c17),[c60: Temperament](/emo-web/profiles/c60),2.17,0.98,-1.19
-[c17: Anger](/emo-web/profiles/c17),[c42: Fear](/emo-web/profiles/c42),1.57,0.97,-0.61
-[c26: Pet](/emo-web/profiles/c26),[c17: Anger](/emo-web/profiles/c17),2,1.05,-0.95
-[c33: Humor](/emo-web/profiles/c33),[c17: Anger](/emo-web/profiles/c17),1.66,0.97,-0.69
-[c62: Culture](/emo-web/profiles/c62),[c17: Anger](/emo-web/profiles/c17),1.33,0.72,-0.61
+[c17: Anger](/affect-net/profiles/c17),[c60: Temperament](/affect-net/profiles/c60),2.17,0.98,-1.19
+[c17: Anger](/affect-net/profiles/c17),[c42: Fear](/affect-net/profiles/c42),1.57,0.97,-0.61
+[c26: Pet](/affect-net/profiles/c26),[c17: Anger](/affect-net/profiles/c17),2,1.05,-0.95
+[c33: Humor](/affect-net/profiles/c33),[c17: Anger](/affect-net/profiles/c17),1.66,0.97,-0.69
+[c62: Culture](/affect-net/profiles/c62),[c17: Anger](/affect-net/profiles/c17),1.33,0.72,-0.61

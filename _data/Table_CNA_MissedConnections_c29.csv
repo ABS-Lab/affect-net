@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c29: Risk](/emo-web/profiles/c29),[c58: Attitude](/emo-web/profiles/c58),2.09,0.9,-1.19
-[c29: Risk](/emo-web/profiles/c29),[c57: Animal behavior](/emo-web/profiles/c57),2,0.9,-1.1
-[c29: Risk](/emo-web/profiles/c29),[c23: Behavior](/emo-web/profiles/c23),1.92,0.89,-1.03
-[c29: Risk](/emo-web/profiles/c29),[c05: Disgust](/emo-web/profiles/c05),1.92,0.89,-1.03
-[c29: Risk](/emo-web/profiles/c29),[c21: Political](/emo-web/profiles/c21),1.88,0.9,-0.98
+[c29: Risk](/affect-net/profiles/c29),[c58: Attitude](/affect-net/profiles/c58),2.09,0.9,-1.19
+[c29: Risk](/affect-net/profiles/c29),[c57: Animal behavior](/affect-net/profiles/c57),2,0.9,-1.1
+[c29: Risk](/affect-net/profiles/c29),[c23: Behavior](/affect-net/profiles/c23),1.92,0.89,-1.03
+[c29: Risk](/affect-net/profiles/c29),[c05: Disgust](/affect-net/profiles/c05),1.92,0.89,-1.03
+[c29: Risk](/affect-net/profiles/c29),[c21: Political](/affect-net/profiles/c21),1.88,0.9,-0.98

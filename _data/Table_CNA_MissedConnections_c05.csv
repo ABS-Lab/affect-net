@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c05: Disgust](/emo-web/profiles/c05),[c42: Fear](/emo-web/profiles/c42),2.2,0.97,-1.23
-[c05: Disgust](/emo-web/profiles/c05),[c60: Temperament](/emo-web/profiles/c60),1.81,1.02,-0.8
-[c29: Risk](/emo-web/profiles/c29),[c05: Disgust](/emo-web/profiles/c05),1.92,0.89,-1.03
-[c62: Culture](/emo-web/profiles/c62),[c05: Disgust](/emo-web/profiles/c05),1.83,0.72,-1.11
-[c61: Media](/emo-web/profiles/c61),[c05: Disgust](/emo-web/profiles/c05),1.72,1.02,-0.7
+[c05: Disgust](/affect-net/profiles/c05),[c42: Fear](/affect-net/profiles/c42),2.2,0.97,-1.23
+[c05: Disgust](/affect-net/profiles/c05),[c60: Temperament](/affect-net/profiles/c60),1.81,1.02,-0.8
+[c29: Risk](/affect-net/profiles/c29),[c05: Disgust](/affect-net/profiles/c05),1.92,0.89,-1.03
+[c62: Culture](/affect-net/profiles/c62),[c05: Disgust](/affect-net/profiles/c05),1.83,0.72,-1.11
+[c61: Media](/affect-net/profiles/c61),[c05: Disgust](/affect-net/profiles/c05),1.72,1.02,-0.7

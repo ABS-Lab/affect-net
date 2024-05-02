@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c33: Humor](/emo-web/profiles/c33),[c38: Expectation](/emo-web/profiles/c38),2.46,1.29,-1.17
-[c25: Consumer](/emo-web/profiles/c25),[c38: Expectation](/emo-web/profiles/c38),2.06,1.04,-1.02
-[c16: Happiness](/emo-web/profiles/c16),[c38: Expectation](/emo-web/profiles/c38),1.99,0.84,-1.16
-[c29: Risk](/emo-web/profiles/c29),[c38: Expectation](/emo-web/profiles/c38),1.92,0.88,-1.03
-[c46: Time](/emo-web/profiles/c46),[c38: Expectation](/emo-web/profiles/c38),1.77,0.83,-0.94
+[c33: Humor](/affect-net/profiles/c33),[c38: Expectation](/affect-net/profiles/c38),2.46,1.29,-1.17
+[c25: Consumer](/affect-net/profiles/c25),[c38: Expectation](/affect-net/profiles/c38),2.06,1.04,-1.02
+[c16: Happiness](/affect-net/profiles/c16),[c38: Expectation](/affect-net/profiles/c38),1.99,0.84,-1.16
+[c29: Risk](/affect-net/profiles/c29),[c38: Expectation](/affect-net/profiles/c38),1.92,0.88,-1.03
+[c46: Time](/affect-net/profiles/c46),[c38: Expectation](/affect-net/profiles/c38),1.77,0.83,-0.94

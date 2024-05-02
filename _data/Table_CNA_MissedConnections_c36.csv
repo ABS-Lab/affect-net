@@ -1,5 +1,5 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c46: Time](/emo-web/profiles/c46),[c36: Odor](/emo-web/profiles/c36),2.21,0.83,-1.39
-[c51: Crying](/emo-web/profiles/c51),[c36: Odor](/emo-web/profiles/c36),1.87,0.76,-1.11
-[c59: Nostalgia](/emo-web/profiles/c59),[c36: Odor](/emo-web/profiles/c36),1.73,1.28,-0.44
-[c55: Women](/emo-web/profiles/c55),[c36: Odor](/emo-web/profiles/c36),1.24,0.64,-0.61
+[c46: Time](/affect-net/profiles/c46),[c36: Odor](/affect-net/profiles/c36),2.21,0.83,-1.39
+[c51: Crying](/affect-net/profiles/c51),[c36: Odor](/affect-net/profiles/c36),1.87,0.76,-1.11
+[c59: Nostalgia](/affect-net/profiles/c59),[c36: Odor](/affect-net/profiles/c36),1.73,1.28,-0.44
+[c55: Women](/affect-net/profiles/c55),[c36: Odor](/affect-net/profiles/c36),1.24,0.64,-0.61

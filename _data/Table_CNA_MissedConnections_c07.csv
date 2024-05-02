@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c07: Personality](/emo-web/profiles/c07),[c42: Fear](/emo-web/profiles/c42),2.53,1.32,-1.21
-[c07: Personality](/emo-web/profiles/c07),[c60: Temperament](/emo-web/profiles/c60),1.97,1.32,-0.65
-[c29: Risk](/emo-web/profiles/c29),[c07: Personality](/emo-web/profiles/c07),1.7,0.89,-0.8
-[c26: Pet](/emo-web/profiles/c26),[c07: Personality](/emo-web/profiles/c07),1.42,0.63,-0.78
-[c62: Culture](/emo-web/profiles/c62),[c07: Personality](/emo-web/profiles/c07),1.38,0.72,-0.66
+[c07: Personality](/affect-net/profiles/c07),[c42: Fear](/affect-net/profiles/c42),2.53,1.32,-1.21
+[c07: Personality](/affect-net/profiles/c07),[c60: Temperament](/affect-net/profiles/c60),1.97,1.32,-0.65
+[c29: Risk](/affect-net/profiles/c29),[c07: Personality](/affect-net/profiles/c07),1.7,0.89,-0.8
+[c26: Pet](/affect-net/profiles/c26),[c07: Personality](/affect-net/profiles/c07),1.42,0.63,-0.78
+[c62: Culture](/affect-net/profiles/c62),[c07: Personality](/affect-net/profiles/c07),1.38,0.72,-0.66

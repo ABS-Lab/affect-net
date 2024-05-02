@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c51: Crying](/emo-web/profiles/c51),[c42: Fear](/emo-web/profiles/c42),2.15,0.95,-1.2
-[c51: Crying](/emo-web/profiles/c51),[c28: Expressive writing](/emo-web/profiles/c28),1.93,0.77,-1.17
-[c51: Crying](/emo-web/profiles/c51),[c57: Animal behavior](/emo-web/profiles/c57),1.63,0.79,-0.85
-[c33: Humor](/emo-web/profiles/c33),[c51: Crying](/emo-web/profiles/c51),1.96,0.94,-1.02
-[c26: Pet](/emo-web/profiles/c26),[c51: Crying](/emo-web/profiles/c51),1.87,0.87,-1
+[c51: Crying](/affect-net/profiles/c51),[c42: Fear](/affect-net/profiles/c42),2.15,0.95,-1.2
+[c51: Crying](/affect-net/profiles/c51),[c28: Expressive writing](/affect-net/profiles/c28),1.93,0.77,-1.17
+[c51: Crying](/affect-net/profiles/c51),[c57: Animal behavior](/affect-net/profiles/c57),1.63,0.79,-0.85
+[c33: Humor](/affect-net/profiles/c33),[c51: Crying](/affect-net/profiles/c51),1.96,0.94,-1.02
+[c26: Pet](/affect-net/profiles/c26),[c51: Crying](/affect-net/profiles/c51),1.87,0.87,-1

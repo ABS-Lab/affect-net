@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c16: Happiness](/emo-web/profiles/c16),[c60: Temperament](/emo-web/profiles/c60),2.68,1.48,-1.2
-[c45: Stress](/emo-web/profiles/c45),[c60: Temperament](/emo-web/profiles/c60),2.38,0.97,-1.41
-[c28: Expressive writing](/emo-web/profiles/c28),[c60: Temperament](/emo-web/profiles/c60),2.33,1.2,-1.12
-[c17: Anger](/emo-web/profiles/c17),[c60: Temperament](/emo-web/profiles/c60),2.17,0.98,-1.19
-[c04: Emotional Intelligence](/emo-web/profiles/c04),[c60: Temperament](/emo-web/profiles/c60),2.11,1.12,-0.99
+[c16: Happiness](/affect-net/profiles/c16),[c60: Temperament](/affect-net/profiles/c60),2.68,1.48,-1.2
+[c45: Stress](/affect-net/profiles/c45),[c60: Temperament](/affect-net/profiles/c60),2.38,0.97,-1.41
+[c28: Expressive writing](/affect-net/profiles/c28),[c60: Temperament](/affect-net/profiles/c60),2.33,1.2,-1.12
+[c17: Anger](/affect-net/profiles/c17),[c60: Temperament](/affect-net/profiles/c60),2.17,0.98,-1.19
+[c04: Emotional Intelligence](/affect-net/profiles/c04),[c60: Temperament](/affect-net/profiles/c60),2.11,1.12,-0.99

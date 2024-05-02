@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c33: Humor](/emo-web/profiles/c33),[c23: Behavior](/emo-web/profiles/c23),2.4,1.29,-1.11
-[c32: Experience](/emo-web/profiles/c32),[c23: Behavior](/emo-web/profiles/c23),2.21,1.3,-0.91
-[c37: Student learning](/emo-web/profiles/c37),[c23: Behavior](/emo-web/profiles/c23),2.17,1.06,-1.11
-[c43: Creativity](/emo-web/profiles/c43),[c23: Behavior](/emo-web/profiles/c23),2.16,1.24,-0.93
-[c29: Risk](/emo-web/profiles/c29),[c23: Behavior](/emo-web/profiles/c23),1.92,0.89,-1.03
+[c33: Humor](/affect-net/profiles/c33),[c23: Behavior](/affect-net/profiles/c23),2.4,1.29,-1.11
+[c32: Experience](/affect-net/profiles/c32),[c23: Behavior](/affect-net/profiles/c23),2.21,1.3,-0.91
+[c37: Student learning](/affect-net/profiles/c37),[c23: Behavior](/affect-net/profiles/c23),2.17,1.06,-1.11
+[c43: Creativity](/affect-net/profiles/c43),[c23: Behavior](/affect-net/profiles/c23),2.16,1.24,-0.93
+[c29: Risk](/affect-net/profiles/c29),[c23: Behavior](/affect-net/profiles/c23),1.92,0.89,-1.03
