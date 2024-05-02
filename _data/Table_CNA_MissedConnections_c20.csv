@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c20: Pain](/affect-net/profiles/c20),[c42: Fear](/affect-net/profiles/c42),1.77,1.19,-0.57
-[c51: Crying](/affect-net/profiles/c51),[c20: Pain](/affect-net/profiles/c20),2.01,0.74,-1.27
-[c26: Pet](/affect-net/profiles/c26),[c20: Pain](/affect-net/profiles/c20),1.91,1.21,-0.71
-[c46: Time](/affect-net/profiles/c46),[c20: Pain](/affect-net/profiles/c20),1.24,0.83,-0.41
-[c55: Women](/affect-net/profiles/c55),[c20: Pain](/affect-net/profiles/c20),1.08,0.64,-0.44
+[c20: Pain](/profiles/c20),[c42: Fear](/profiles/c42),1.77,1.19,-0.57
+[c51: Crying](/profiles/c51),[c20: Pain](/profiles/c20),2.01,0.74,-1.27
+[c26: Pet](/profiles/c26),[c20: Pain](/profiles/c20),1.91,1.21,-0.71
+[c46: Time](/profiles/c46),[c20: Pain](/profiles/c20),1.24,0.83,-0.41
+[c55: Women](/profiles/c55),[c20: Pain](/profiles/c20),1.08,0.64,-0.44

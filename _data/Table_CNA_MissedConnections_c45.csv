@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c45: Stress](/affect-net/profiles/c45),[c60: Temperament](/affect-net/profiles/c60),2.38,0.97,-1.41
-[c45: Stress](/affect-net/profiles/c45),[c42: Fear](/affect-net/profiles/c42),1.88,0.97,-0.9
-[c33: Humor](/affect-net/profiles/c33),[c45: Stress](/affect-net/profiles/c45),2.39,1.29,-1.1
-[c32: Experience](/affect-net/profiles/c32),[c45: Stress](/affect-net/profiles/c45),2.26,1.3,-0.96
-[c16: Happiness](/affect-net/profiles/c16),[c45: Stress](/affect-net/profiles/c45),2.15,0.83,-1.32
+[c45: Stress](/profiles/c45),[c60: Temperament](/profiles/c60),2.38,0.97,-1.41
+[c45: Stress](/profiles/c45),[c42: Fear](/profiles/c42),1.88,0.97,-0.9
+[c33: Humor](/profiles/c33),[c45: Stress](/profiles/c45),2.39,1.29,-1.1
+[c32: Experience](/profiles/c32),[c45: Stress](/profiles/c45),2.26,1.3,-0.96
+[c16: Happiness](/profiles/c16),[c45: Stress](/profiles/c45),2.15,0.83,-1.32

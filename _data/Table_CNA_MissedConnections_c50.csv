@@ -1,4 +1,4 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c50: Asthma](/affect-net/profiles/c50),[c42: Fear](/affect-net/profiles/c42),1.43,0.95,-0.48
-[c14: Vagus nerve](/affect-net/profiles/c14),[c50: Asthma](/affect-net/profiles/c50),1.47,0.9,-0.57
-[c51: Crying](/affect-net/profiles/c51),[c50: Asthma](/affect-net/profiles/c50),1.23,0.76,-0.47
+[c50: Asthma](/profiles/c50),[c42: Fear](/profiles/c42),1.43,0.95,-0.48
+[c14: Vagus nerve](/profiles/c14),[c50: Asthma](/profiles/c50),1.47,0.9,-0.57
+[c51: Crying](/profiles/c51),[c50: Asthma](/profiles/c50),1.23,0.76,-0.47

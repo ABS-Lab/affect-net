@@ -1,4 +1,4 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c46: Time](/affect-net/profiles/c46),[c18: Face](/affect-net/profiles/c18),1.97,0.83,-1.14
-[c51: Crying](/affect-net/profiles/c51),[c18: Face](/affect-net/profiles/c18),1.78,0.76,-1.02
-[c55: Women](/affect-net/profiles/c55),[c18: Face](/affect-net/profiles/c18),0.93,0.65,-0.28
+[c46: Time](/profiles/c46),[c18: Face](/profiles/c18),1.97,0.83,-1.14
+[c51: Crying](/profiles/c51),[c18: Face](/profiles/c18),1.78,0.76,-1.02
+[c55: Women](/profiles/c55),[c18: Face](/profiles/c18),0.93,0.65,-0.28

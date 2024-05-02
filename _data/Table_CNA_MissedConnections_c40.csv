@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c40: Language](/affect-net/profiles/c40),[c37: Student learning](/affect-net/profiles/c37),2.04,0.9,-1.14
-[c40: Language](/affect-net/profiles/c40),[c67: Speech](/affect-net/profiles/c67),1.79,0.88,-0.91
-[c37: Student learning](/affect-net/profiles/c37),[c40: Language](/affect-net/profiles/c40),1.97,0.83,-1.14
-[c43: Creativity](/affect-net/profiles/c43),[c40: Language](/affect-net/profiles/c40),1.76,0.81,-0.95
-[c39: Design](/affect-net/profiles/c39),[c40: Language](/affect-net/profiles/c40),1.74,0.92,-0.82
+[c40: Language](/profiles/c40),[c37: Student learning](/profiles/c37),2.04,0.9,-1.14
+[c40: Language](/profiles/c40),[c67: Speech](/profiles/c67),1.79,0.88,-0.91
+[c37: Student learning](/profiles/c37),[c40: Language](/profiles/c40),1.97,0.83,-1.14
+[c43: Creativity](/profiles/c43),[c40: Language](/profiles/c40),1.76,0.81,-0.95
+[c39: Design](/profiles/c39),[c40: Language](/profiles/c40),1.74,0.92,-0.82

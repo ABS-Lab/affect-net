@@ -1,7 +1,7 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c63: Measure](/affect-net/profiles/c63),[c33: Humor](/affect-net/profiles/c33),2.2,1.25,-0.95
-[c63: Measure](/affect-net/profiles/c63),[c53: Dark tourism](/affect-net/profiles/c53),1.99,0.99,-1
-[c32: Experience](/affect-net/profiles/c32),[c63: Measure](/affect-net/profiles/c63),2.33,1.32,-1.01
-[c33: Humor](/affect-net/profiles/c33),[c63: Measure](/affect-net/profiles/c63),2.25,1.31,-0.95
-[c37: Student learning](/affect-net/profiles/c37),[c63: Measure](/affect-net/profiles/c63),2.05,1.07,-0.98
-[c25: Consumer](/affect-net/profiles/c25),[c63: Measure](/affect-net/profiles/c63),2.04,1.07,-0.97
+[c63: Measure](/profiles/c63),[c33: Humor](/profiles/c33),2.2,1.25,-0.95
+[c63: Measure](/profiles/c63),[c53: Dark tourism](/profiles/c53),1.99,0.99,-1
+[c32: Experience](/profiles/c32),[c63: Measure](/profiles/c63),2.33,1.32,-1.01
+[c33: Humor](/profiles/c33),[c63: Measure](/profiles/c63),2.25,1.31,-0.95
+[c37: Student learning](/profiles/c37),[c63: Measure](/profiles/c63),2.05,1.07,-0.98
+[c25: Consumer](/profiles/c25),[c63: Measure](/profiles/c63),2.04,1.07,-0.97

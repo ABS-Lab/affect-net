@@ -1,8 +1,8 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c68: Competence](/affect-net/profiles/c68),[c66: Experience (music)](/affect-net/profiles/c66),1.75,0.87,-0.88
-[c68: Competence](/affect-net/profiles/c68),[c32: Experience](/affect-net/profiles/c32),1.69,0.86,-0.83
-[c68: Competence](/affect-net/profiles/c68),[c13: Social](/affect-net/profiles/c13),1.58,0.87,-0.72
-[c68: Competence](/affect-net/profiles/c68),[c41: Depression](/affect-net/profiles/c41),1.31,0.86,-0.45
-[c66: Experience (music)](/affect-net/profiles/c66),[c68: Competence](/affect-net/profiles/c68),2.11,1.23,-0.88
-[c19: Socio-political](/affect-net/profiles/c19),[c68: Competence](/affect-net/profiles/c68),1.87,1.42,-0.45
-[c26: Pet](/affect-net/profiles/c26),[c68: Competence](/affect-net/profiles/c68),1.5,1.05,-0.45
+[c68: Competence](/profiles/c68),[c66: Experience (music)](/profiles/c66),1.75,0.87,-0.88
+[c68: Competence](/profiles/c68),[c32: Experience](/profiles/c32),1.69,0.86,-0.83
+[c68: Competence](/profiles/c68),[c13: Social](/profiles/c13),1.58,0.87,-0.72
+[c68: Competence](/profiles/c68),[c41: Depression](/profiles/c41),1.31,0.86,-0.45
+[c66: Experience (music)](/profiles/c66),[c68: Competence](/profiles/c68),2.11,1.23,-0.88
+[c19: Socio-political](/profiles/c19),[c68: Competence](/profiles/c68),1.87,1.42,-0.45
+[c26: Pet](/profiles/c26),[c68: Competence](/profiles/c68),1.5,1.05,-0.45

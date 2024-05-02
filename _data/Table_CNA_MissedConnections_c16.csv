@@ -1,7 +1,7 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c16: Happiness](/affect-net/profiles/c16),[c60: Temperament](/affect-net/profiles/c60),2.68,1.48,-1.2
-[c16: Happiness](/affect-net/profiles/c16),[c28: Expressive writing](/affect-net/profiles/c28),2.28,0.86,-1.42
-[c16: Happiness](/affect-net/profiles/c16),[c55: Women](/affect-net/profiles/c55),1.84,0.86,-0.98
-[c16: Happiness](/affect-net/profiles/c16),[c56: Student learning II](/affect-net/profiles/c56),1.77,0.88,-0.88
-[c49: Play](/affect-net/profiles/c49),[c16: Happiness](/affect-net/profiles/c16),2.1,1.16,-0.94
-[c66: Experience (music)](/affect-net/profiles/c66),[c16: Happiness](/affect-net/profiles/c16),2.08,1.21,-0.87
+[c16: Happiness](/profiles/c16),[c60: Temperament](/profiles/c60),2.68,1.48,-1.2
+[c16: Happiness](/profiles/c16),[c28: Expressive writing](/profiles/c28),2.28,0.86,-1.42
+[c16: Happiness](/profiles/c16),[c55: Women](/profiles/c55),1.84,0.86,-0.98
+[c16: Happiness](/profiles/c16),[c56: Student learning II](/profiles/c56),1.77,0.88,-0.88
+[c49: Play](/profiles/c49),[c16: Happiness](/profiles/c16),2.1,1.16,-0.94
+[c66: Experience (music)](/profiles/c66),[c16: Happiness](/profiles/c16),2.08,1.21,-0.87

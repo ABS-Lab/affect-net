@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c12: Shame](/affect-net/profiles/c12),[c60: Temperament](/affect-net/profiles/c60),1.85,0.77,-1.08
-[c12: Shame](/affect-net/profiles/c12),[c42: Fear](/affect-net/profiles/c42),1.73,0.87,-0.86
-[c59: Nostalgia](/affect-net/profiles/c59),[c12: Shame](/affect-net/profiles/c12),2.58,1.29,-1.29
-[c33: Humor](/affect-net/profiles/c33),[c12: Shame](/affect-net/profiles/c12),2.48,1.29,-1.19
-[c26: Pet](/affect-net/profiles/c26),[c12: Shame](/affect-net/profiles/c12),2.23,1.13,-1.1
+[c12: Shame](/profiles/c12),[c60: Temperament](/profiles/c60),1.85,0.77,-1.08
+[c12: Shame](/profiles/c12),[c42: Fear](/profiles/c42),1.73,0.87,-0.86
+[c59: Nostalgia](/profiles/c59),[c12: Shame](/profiles/c12),2.58,1.29,-1.29
+[c33: Humor](/profiles/c33),[c12: Shame](/profiles/c12),2.48,1.29,-1.19
+[c26: Pet](/profiles/c26),[c12: Shame](/profiles/c12),2.23,1.13,-1.1

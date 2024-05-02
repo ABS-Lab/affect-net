@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c47: Biological](/affect-net/profiles/c47),[c35: Biodiversity](/affect-net/profiles/c35),2.09,1.34,-0.76
-[c43: Creativity](/affect-net/profiles/c43),[c47: Biological](/affect-net/profiles/c47),2.36,1.24,-1.12
-[c24: Self](/affect-net/profiles/c24),[c47: Biological](/affect-net/profiles/c47),2.35,1.11,-1.24
-[c19: Socio-political](/affect-net/profiles/c19),[c47: Biological](/affect-net/profiles/c47),2.31,1.47,-0.84
-[c40: Language](/affect-net/profiles/c40),[c47: Biological](/affect-net/profiles/c47),1.33,0.92,-0.41
+[c47: Biological](/profiles/c47),[c35: Biodiversity](/profiles/c35),2.09,1.34,-0.76
+[c43: Creativity](/profiles/c43),[c47: Biological](/profiles/c47),2.36,1.24,-1.12
+[c24: Self](/profiles/c24),[c47: Biological](/profiles/c47),2.35,1.11,-1.24
+[c19: Socio-political](/profiles/c19),[c47: Biological](/profiles/c47),2.31,1.47,-0.84
+[c40: Language](/profiles/c40),[c47: Biological](/profiles/c47),1.33,0.92,-0.41

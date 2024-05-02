@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c01: Core Affect](/affect-net/profiles/c01),[c42: Fear](/affect-net/profiles/c42),1.47,0.95,-0.53
-[c65: Action](/affect-net/profiles/c65),[c01: Core Affect](/affect-net/profiles/c01),1.79,0.66,-1.13
-[c66: Experience (music)](/affect-net/profiles/c66),[c01: Core Affect](/affect-net/profiles/c01),1.75,1.21,-0.54
-[c29: Risk](/affect-net/profiles/c29),[c01: Core Affect](/affect-net/profiles/c01),1.67,0.88,-0.79
-[c44: Agent](/affect-net/profiles/c44),[c01: Core Affect](/affect-net/profiles/c01),1.59,0.96,-0.63
+[c01: Core Affect](/profiles/c01),[c42: Fear](/profiles/c42),1.47,0.95,-0.53
+[c65: Action](/profiles/c65),[c01: Core Affect](/profiles/c01),1.79,0.66,-1.13
+[c66: Experience (music)](/profiles/c66),[c01: Core Affect](/profiles/c01),1.75,1.21,-0.54
+[c29: Risk](/profiles/c29),[c01: Core Affect](/profiles/c01),1.67,0.88,-0.79
+[c44: Agent](/profiles/c44),[c01: Core Affect](/profiles/c01),1.59,0.96,-0.63

@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c07: Personality](/affect-net/profiles/c07),[c42: Fear](/affect-net/profiles/c42),2.53,1.32,-1.21
-[c03: Empathy](/affect-net/profiles/c03),[c42: Fear](/affect-net/profiles/c42),2.37,1.21,-1.16
-[c05: Disgust](/affect-net/profiles/c05),[c42: Fear](/affect-net/profiles/c42),2.2,0.97,-1.23
-[c51: Crying](/affect-net/profiles/c51),[c42: Fear](/affect-net/profiles/c42),2.15,0.95,-1.2
-[c02: Emotion Regulation](/affect-net/profiles/c02),[c42: Fear](/affect-net/profiles/c42),2.02,1.11,-0.91
+[c07: Personality](/profiles/c07),[c42: Fear](/profiles/c42),2.53,1.32,-1.21
+[c03: Empathy](/profiles/c03),[c42: Fear](/profiles/c42),2.37,1.21,-1.16
+[c05: Disgust](/profiles/c05),[c42: Fear](/profiles/c42),2.2,0.97,-1.23
+[c51: Crying](/profiles/c51),[c42: Fear](/profiles/c42),2.15,0.95,-1.2
+[c02: Emotion Regulation](/profiles/c02),[c42: Fear](/profiles/c42),2.02,1.11,-0.91

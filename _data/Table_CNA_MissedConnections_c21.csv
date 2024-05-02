@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c21: Political](/affect-net/profiles/c21),[c61: Media](/affect-net/profiles/c61),3,1.46,-1.54
-[c21: Political](/affect-net/profiles/c21),[c58: Attitude](/affect-net/profiles/c58),2.76,1.46,-1.3
-[c21: Political](/affect-net/profiles/c21),[c33: Humor](/affect-net/profiles/c33),2.39,1.31,-1.08
-[c21: Political](/affect-net/profiles/c21),[c11: Robot](/affect-net/profiles/c11),2.3,1.18,-1.12
-[c21: Political](/affect-net/profiles/c21),[c19: Socio-political](/affect-net/profiles/c19),2.3,1.24,-1.06
+[c21: Political](/profiles/c21),[c61: Media](/profiles/c61),3,1.46,-1.54
+[c21: Political](/profiles/c21),[c58: Attitude](/profiles/c58),2.76,1.46,-1.3
+[c21: Political](/profiles/c21),[c33: Humor](/profiles/c33),2.39,1.31,-1.08
+[c21: Political](/profiles/c21),[c11: Robot](/profiles/c11),2.3,1.18,-1.12
+[c21: Political](/profiles/c21),[c19: Socio-political](/profiles/c19),2.3,1.24,-1.06

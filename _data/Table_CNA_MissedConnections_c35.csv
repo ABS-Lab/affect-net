@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c35: Biodiversity](/affect-net/profiles/c35),[c11: Robot](/affect-net/profiles/c11),1.68,1.28,-0.4
-[c13: Social](/affect-net/profiles/c13),[c35: Biodiversity](/affect-net/profiles/c35),2.29,1.24,-1.05
-[c47: Biological](/affect-net/profiles/c47),[c35: Biodiversity](/affect-net/profiles/c35),2.09,1.34,-0.76
-[c37: Student learning](/affect-net/profiles/c37),[c35: Biodiversity](/affect-net/profiles/c35),1.99,1.3,-0.68
-[c58: Attitude](/affect-net/profiles/c58),[c35: Biodiversity](/affect-net/profiles/c35),1.48,1.04,-0.44
+[c35: Biodiversity](/profiles/c35),[c11: Robot](/profiles/c11),1.68,1.28,-0.4
+[c13: Social](/profiles/c13),[c35: Biodiversity](/profiles/c35),2.29,1.24,-1.05
+[c47: Biological](/profiles/c47),[c35: Biodiversity](/profiles/c35),2.09,1.34,-0.76
+[c37: Student learning](/profiles/c37),[c35: Biodiversity](/profiles/c35),1.99,1.3,-0.68
+[c58: Attitude](/profiles/c58),[c35: Biodiversity](/profiles/c35),1.48,1.04,-0.44

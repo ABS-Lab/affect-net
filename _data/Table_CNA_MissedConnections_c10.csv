@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
-[c33: Humor](/affect-net/profiles/c33),[c10: Infant](/affect-net/profiles/c10),2.43,1.28,-1.14
-[c49: Play](/affect-net/profiles/c49),[c10: Infant](/affect-net/profiles/c10),2.39,1.35,-1.04
-[c32: Experience](/affect-net/profiles/c32),[c10: Infant](/affect-net/profiles/c10),2.27,1.31,-0.96
-[c26: Pet](/affect-net/profiles/c26),[c10: Infant](/affect-net/profiles/c10),2.2,1.21,-0.99
-[c37: Student learning](/affect-net/profiles/c37),[c10: Infant](/affect-net/profiles/c10),1.77,0.93,-0.85
+[c33: Humor](/profiles/c33),[c10: Infant](/profiles/c10),2.43,1.28,-1.14
+[c49: Play](/profiles/c49),[c10: Infant](/profiles/c10),2.39,1.35,-1.04
+[c32: Experience](/profiles/c32),[c10: Infant](/profiles/c10),2.27,1.31,-0.96
+[c26: Pet](/profiles/c26),[c10: Infant](/profiles/c10),2.2,1.21,-0.99
+[c37: Student learning](/profiles/c37),[c10: Infant](/profiles/c10),1.77,0.93,-0.85
