@@ -1,6 +1,6 @@
 From,To,Diff. Score,Citation-Based Distance (Z), Semantic Distance (Z)
 [c65: Action](/profiles/c65),[c46: Time](/profiles/c46),2.38,1.23,-1.15
-[c65: Action](/profiles/c65),[c01: Core Affect](/profiles/c01),1.79,0.66,-1.13
+[c65: Action](/profiles/c65),[c01: Emotion Theories](/profiles/c01),1.79,0.66,-1.13
 [c65: Action](/profiles/c65),[c03: Empathy](/profiles/c03),1.42,0.67,-0.75
 [c65: Action](/profiles/c65),[c07: Personality](/profiles/c07),1.22,0.69,-0.52
 [c29: Risk](/profiles/c29),[c65: Action](/profiles/c65),1.38,0.88,-0.5
